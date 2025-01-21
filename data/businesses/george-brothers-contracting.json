@@ -1,0 +1,44 @@
+{
+  "slug": "george-brothers'-contracting",
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, it appears there is a confusion because the specific details given do not match any of the sources provided. Here is what can be inferred and what is not available:\n\n## Business Information:\n- The provided details (Business Name: George Brothers' Contracting, Phone: +1 706-527-1060) do not match any of the sources. The phone number and name suggest a business that is not listed in the provided sources.\n- **Alabama business registration/license details**: Not available from the provided sources.\n- **Physical location and service areas**: Not specified in the provided sources. However, the phone number suggests it might be located in Georgia rather than Alabama, as the area code 706 is associated with Georgia.\n- **Hours and payment methods**: Not available.\n- **Years in operation**: Not available.\n\n## Services & Specialties:\n- Since the business does not match the sources, **types of services offered**, **service areas covered**, **emergency service availability**, and **any listed prices or rates** are not available.\n\n## Customer Reviews & Reputation:\n- **Review summaries with specific examples**: Not available.\n- **BBB rating and status**: Not available.\n- **Common customer feedback themes**: Not available.\n- **Response to reviews**: Not available.\n\n## Owner & Staff:\n- **Owner/management information**: Not available.\n- **Staff qualifications**: Not available.\n- **Professional certifications**: Not available.\n\nGiven the mismatch, it seems that \"George Brothers' Contracting\" with the provided phone number and Google Place ID does not correspond to any of the businesses described in the sources. To find accurate information, you would need to consult other resources such as the Alabama Secretary of State's business database, the Alabama Plumbers and Gas Fitters Exam Board, or directly contact the business.\n\nIt's worth noting that there is a \"George Plumbing\" in Huntsville, AL, which is detailed in one of the sources[4], but this does not match the provided identifiers for \"George Brothers' Contracting.\"",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"George Brothers' Contracting\" (ID: ChIJqVsZfr8084gRzQzlp63cz3M) has no reviews",
+      "searchString": "place_id:ChIJqVsZfr8084gRzQzlp63cz3M",
+      "isAdvertisement": false,
+      "placeId": "ChIJqVsZfr8084gRzQzlp63cz3M",
+      "location": {
+        "lat": 32.67853,
+        "lng": -83.1940624
+      },
+      "address": null,
+      "categoryName": "General contractor",
+      "categories": [
+        "General contractor",
+        "Cabinet maker",
+        "Electrician",
+        "Service establishment",
+        "Painter",
+        "Plumber"
+      ],
+      "title": "George Brothers' Contracting",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=George%20Brothers'%20Contracting&query_place_id=ChIJqVsZfr8084gRzQzlp63cz3M",
+      "price": null,
+      "cid": "8345131272945077453",
+      "fid": "0x88f334bf7e195ba9:0x73cfdcada7e50ccd"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "k-k-contracted-services",
+  "businessName": "K&K Contracted Services",
+  "processedImages": 12,
+  "totalTokens": 26761,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOOJyf556eMv6BFS1sqyVWGEMSNFzuQRLx9ZbFR=w2048-h2048-k-no",
+      "description": "A well-maintained residential property with a neatly trimmed lawn, showcasing the company's expertise in landscaping and exterior home services.",
+      "callToAction": "Elevate your home's curb appeal with our professional landscaping and exterior maintenance services."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPFti2hWSmkveRuVMXzPg0PtOlRpLfVjX-6UvFu=w2048-h2048-k-no",
+      "description": "A cozy residential home with festive Halloween decorations, highlighting the company's ability to provide seasonal decorating services.",
+      "callToAction": "Let us bring the holiday spirit to your home with our creative and professional decorating services."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPHPxHwzzSCE07lZEMeKgC5PGM4_ywz_twNRUZ9=w2048-h2048-k-no",
+      "description": "A serene backyard setting with a trampoline and a newly constructed shed, demonstrating the company's versatility in outdoor projects.",
+      "callToAction": "Transform your outdoor space into a personal oasis with our skilled craftsmanship and attention to detail."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNCeN-H-ALwHM3vWEh3Bu7eBfVHq_lqPUaq4lAV=w2048-h2048-k-no",
+      "description": "A rugged work truck equipped with necessary tools and supplies, showcasing the company's preparedness and professionalism.",
+      "reason": "This image highlights the company's commitment to being well-equipped and ready to tackle any job, instilling confidence in potential clients."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMwkrDy-7t0X3gBqY0BdWIt87Y_Z9ZtRF8xN2E_=w2048-h2048-k-no",
+      "description": "A team member working diligently in a wooded area, clearing debris and maintaining the surroundings.",
+      "reason": "This image demonstrates the company's dedication to providing quality services, even in challenging environments, showcasing their expertise and work ethic."
+    }
+  ],
+  "plumberResearchFull.json": "Based on the provided identifiers and the available sources, here is the information that can be verified for K&K Contracted Services, specifically the one located at 145 Smokey Hollow Dr, Ashville, AL 35953:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: While the specific license details for K&K Contracted Services are not available in the provided sources, plumbing contractors in Alabama must be licensed through the Alabama Plumbers and Gas Fitters Examining Board[4]. However, without direct access to the board's database or specific records, the exact license status cannot be confirmed.\n- **Physical Location and Service Areas**: The business is located at 145 Smokey Hollow Dr, Ashville, AL 35953. The service areas are not explicitly stated, but it is implied to serve the local region around Ashville, AL[2].\n- **Hours and Payment Methods**: The hours of operation and payment methods are not specified in the available sources.\n- **Years in Operation**: The duration of operation for K&K Contracted Services is not provided in the available sources.\n\n## Services & Specialties:\n- **Types of Services Offered**: K&K Plumbing (which appears to be the same or a closely related entity) offers 24/7 emergency plumbing services, including leak detection, repiping, installation of tankless water heaters, water heater repairs, and emergency drain clearances[2].\n- **Service Areas Covered**: As mentioned, the service areas are likely local to Ashville, AL, but exact boundaries are not specified.\n- **Emergency Service Availability**: Yes, they offer 24/7 emergency plumbing services[2].\n- **Any Listed Prices or Rates**: Prices or rates are not provided in the available sources.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: There are no customer reviews available in the provided sources that are specifically linked to K&K Contracted Services at the given address.\n- **BBB Rating and Status**: No information is available regarding the BBB rating or status for this specific business.\n- **Common Customer Feedback Themes**: Without specific reviews, common feedback themes cannot be determined.\n- **Response to Reviews**: There is no information on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner or management details are not provided in the available sources.\n- **Staff Qualifications**: The staff at K&K Plumbing are described as licensed plumbers who specialize in emergency plumbing services and are certified to handle complex repairs safely and effectively[2].\n- **Professional Certifications**: The staff are certified plumbers, but specific certifications beyond this are not detailed[2].\n\nGiven the limited information available from the sources, it is clear that K&K Contracted Services, or a closely related entity like K&K Plumbing, operates in Ashville, AL, and provides a range of plumbing services, including emergency services. However, detailed business registration, hours, payment methods, and customer reviews are not available from the provided sources.",
+  "aboutUs": "At K&K Contracted Services, we are a team of highly skilled and certified plumbers dedicated to providing top-notch plumbing solutions to the Ashville community and surrounding areas. Our expertise lies in emergency services, leak detection, repiping, tankless water heater installation, and drain clearance. With a focus on prompt and reliable service, we strive to be your go-to local plumbing experts.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with our 24/7 emergency plumbing services, delivered by certified professionals.",
+    "sellingPoints": [
+      "Rapid response times for emergencies, ensuring your plumbing issues are addressed promptly.",
+      "State-of-the-art equipment and techniques for efficient and long-lasting solutions.",
+      "Unwavering commitment to safety, quality, and customer satisfaction on every job."
+    ]
+  }
+}

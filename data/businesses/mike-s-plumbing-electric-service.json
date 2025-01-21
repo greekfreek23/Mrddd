@@ -1,0 +1,45 @@
+{
+  "slug": "mike-s-plumbing-electric-service",
+  "businessName": "Mike's Plumbing & Electric Service",
+  "processedImages": 12,
+  "totalTokens": 28540,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOAye36pGihLYuIwsxdVJQh4OT79iyAPBQrzkOx=w2048-h2048-k-no",
+      "description": "A Mike's Plumbing & Electric Service van parked alongside a towering blue lift, showcasing the company's capability to handle both residential and commercial projects of any scale.",
+      "callToAction": "Trust the experts at Mike's for all your plumbing and electrical needs, from minor repairs to major renovations."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNCrEyFtUOmQ8GLVd2ZN50IWev5O8IteSXZGmFo=w2048-h2048-k-no",
+      "description": "An excavator digging a trench for underground utility lines, demonstrating Mike's expertise in new construction and infrastructure projects.",
+      "callToAction": "Let Mike's handle your new construction project from the ground up, with seamless coordination of plumbing and electrical systems."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN7WX1Vg50ZFyZqK38igCKwisjE44U4a5PlZDL_=w2048-h2048-k-no",
+      "description": "A luxurious bathroom renovation featuring elegant tile work and modern fixtures, highlighting Mike's skill in transforming spaces with high-quality craftsmanship.",
+      "callToAction": "Elevate your living space with a stunning bathroom remodel by the skilled professionals at Mike's Plumbing & Electric Service."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPQ6CMg-Z8AaSem9R5AzsfnXI2lVhhJqeG-99tx=w2048-h2048-k-no",
+      "description": "A worker digging a trench for a new plumbing line, showcasing Mike's commitment to hands-on expertise and attention to detail in every project.",
+      "reason": "This image demonstrates the company's ability to handle complex installations and their dedication to quality workmanship, making it an excellent choice for the About Us section."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPRaXTq8skCTbySxmVn3NLUHqKhxgQkzT-guTIn=w2048-h2048-k-no",
+      "description": "A skilled technician working on a plumbing repair, highlighting Mike's professionalism and expertise in addressing even the most challenging issues.",
+      "reason": "This image showcases the company's commitment to providing top-notch service and their ability to handle a wide range of plumbing and electrical repairs, making it a great addition to the About Us section."
+    }
+  ],
+  "plumberResearchFull.json": "Based on the provided identifiers and the relevant sources, here is the detailed information about Mike's Plumbing & Electric, LLC, which matches the specified details:\n\n## Business Information\n\n- **Alabama Business Registration/License Details:**\n  - Mike's Plumbing & Electric, LLC holds a license number MP-3448 issued by the State of Alabama Plumbers & Gas Fitters Examining Board, with an expiration date of 12/31/2024. They also have a license number 06473 issued by the Alabama Electrical Contractors Board[1].\n\n- **Physical Location and Service Areas:**\n  - The business is located at 2304 Garrett Rd, Ashford, AL 36312-6538. They serve various areas including Dothan, Enterprise, Ozark, Cowarts, Headland, Cottonwood, Pansey, Columbia, Daleville, Midland City, Ashford, Rehobeth, and Slocomb, along with surrounding areas[1][2].\n\n- **Hours and Payment Methods:**\n  - There is no specific information on the hours of operation, but they can be contacted at (334) 714-7139. Payment methods are not explicitly listed, but it is common for such businesses to accept major credit cards, cash, and checks[1][4].\n\n- **Years in Operation:**\n  - Mike's Plumbing & Electric, LLC has been in business since September 1, 1998, and was incorporated on January 11, 2006. As of the current date, they have been in operation for approximately 26 years[1].\n\n## Services & Specialties\n\n- **Types of Services Offered:**\n  - The business provides a wide range of services including plumbing, electrical work, major appliance services, plumbing renovation, small appliance services, sewer cleaning, sewer contractors, water heater repair, irrigation repair, electrical wiring, commercial electrician services, tankless water heaters, commercial plumbing, generator maintenance, leak detection, generator repair, electrical power systems maintenance, light fixture repair, sewer inspection, generators, water heater installation, vacuum trucks, and electrical power system backup systems[1].\n\n- **Service Areas Covered:**\n  - As mentioned earlier, they serve Dothan, AL, and surrounding areas including several nearby cities and towns[1][2].\n\n- **Emergency Service Availability:**\n  - While not explicitly stated, the presence of multiple contact numbers and the comprehensive list of services suggests they may offer emergency services, but this needs to be confirmed directly with the business.\n\n- **Any Listed Prices or Rates:**\n  - There is no specific pricing information available in the provided sources.\n\n## Customer Reviews & Reputation\n\n- **Review Summaries with Specific Examples:**\n  - The business has a 4.2-star rating based on 79 reviews, but specific review content is not provided in the sources. However, their high rating and long-standing BBB accreditation suggest a generally positive customer feedback.\n\n- **BBB Rating and Status:**\n  - Mike's Plumbing & Electric, LLC is BBB Accredited since June 15, 2007, and holds an A+ BBB rating[1].\n\n- **Common Customer Feedback Themes:**\n  - While specific themes are not detailed in the sources, the A+ BBB rating and long accreditation period indicate a strong reputation for customer satisfaction.\n\n- **Response to Reviews:**\n  - There is no information available on how the business responds to reviews.\n\n## Owner & Staff\n\n- **Owner/Management Information:**\n  - The business is managed by Kacie Conner, who serves as the Secretary[1].\n\n- **Staff Qualifications:**\n  - The sources do not provide detailed information on the qualifications of the staff, but the business's professional licenses and long-standing operation suggest that the staff is qualified and experienced.\n\n- **Professional Certifications:**\n  - The business holds licenses from the State of Alabama Plumbers & Gas Fitters Examining Board and the Alabama Electrical Contractors Board, indicating that they meet the necessary professional certification requirements[1].",
+  "aboutUs": "Mike's Plumbing & Electric, LLC is a premier plumbing and electrical service provider in Dothan, AL, and surrounding areas. With a comprehensive range of services, including plumbing renovation, commercial electrician services, and generator maintenance, we specialize in delivering expert solutions tailored to your unique needs. Our team of highly skilled professionals is dedicated to providing top-notch local service, ensuring your complete satisfaction.",
+  "whyChooseUs": {
+    "mainPitch": "Unparalleled expertise and reliable service for all your plumbing and electrical needs.",
+    "sellingPoints": [
+      "Licensed and certified professionals with extensive knowledge and experience.",
+      "Comprehensive range of services, from plumbing repairs to commercial electrical installations.",
+      "Commitment to using the latest techniques and equipment for efficient and long-lasting solutions."
+    ]
+  }
+}

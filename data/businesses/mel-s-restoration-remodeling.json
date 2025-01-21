@@ -1,0 +1,45 @@
+{
+  "slug": "mel-s-restoration-remodeling",
+  "businessName": "Mel's Restoration & Remodeling",
+  "processedImages": 12,
+  "totalTokens": 21833,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPFqAoMrzJpxMt8oQf-SQreZjXlk84u3wBdznxr=w2048-h2048-k-no",
+      "description": "A beautifully designed and remodeled kitchen with white cabinets, a light blue island, and modern pendant lighting, showcasing the company's expertise in kitchen renovations.",
+      "callToAction": "Transform your kitchen into a stunning and functional space with our expert design and remodeling services."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOQkTqIB-QqVZ8K0PScXP4sIB2XM5e52ww6FXmD=w2048-h2048-k-no",
+      "description": "A cozy and inviting living room with a fireplace, plush sofas, and tasteful decor, highlighting the company's ability to create warm and welcoming living spaces.",
+      "callToAction": "Elevate your living room's style and comfort with our professional remodeling and design services."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP5UHW1eYehMhYUHO0bIg1MgST2Tst7o6dRNWFx=w2048-h2048-k-no",
+      "description": "A luxurious and modern bathroom with a sleek vanity, a large mirror, and a stylish chevron-patterned shower curtain, demonstrating the company's skill in bathroom renovations.",
+      "callToAction": "Indulge in a spa-like experience with our expert bathroom remodeling services."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOoWdv02zdppCbgmPZkD8PaMV51ya2Ldl4SJ2hg=w2048-h2048-k-no",
+      "description": "A work-in-progress shot of a residential renovation project, showcasing the company's ability to handle various stages of the remodeling process.",
+      "whyItWorks": "This image highlights the company's hands-on approach and commitment to delivering high-quality results throughout the entire renovation process."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMlmVZS4TdKtZmgNuasCgaHbrlC3CjDKTXPrWgT=w2048-h2048-k-no",
+      "description": "An exterior shot of a charming residential property with a well-maintained lawn and a driveway leading to the house, showcasing the company's expertise in exterior renovations and landscaping.",
+      "whyItWorks": "This image demonstrates the company's capability to enhance the curb appeal and overall aesthetic of a property, making it an excellent choice for the About Us section."
+    }
+  ],
+  "plumberResearchFull.json": "Based on the provided identifiers and the available sources, here is the detailed information about Mel's Restoration & Remodeling in Alabama:\n\n## Business Information\n\n### Alabama Business Registration/License Details\n- There is no specific information available in the provided sources about the business licenses or registrations for Mel's Restoration & Remodeling. However, it is known that businesses in Alabama, including contractors, need to obtain necessary licenses and permits, often issued at the county level[1][4].\n\n### Physical Location and Service Areas\n- Mel's Restoration & Remodeling is located in Eufaula, Alabama 36027[2][3].\n- The service areas include Eufaula, Georgetown, Columbus, and other nearby regions[2].\n\n### Hours and Payment Methods\n- There is no specific information available about the business hours or payment methods for Mel's Restoration & Remodeling in the provided sources.\n\n### Years in Operation\n- The exact years in operation are not specified in the provided sources.\n\n## Services & Specialties\n\n### Types of Services Offered\n- Mel's Restoration & Remodeling offers a variety of home repair and improvement services, including:\n  - Tile installation, repair, and backsplash design\n  - Bathroom remodeling\n  - Kitchen remodeling\n  - Home restoration\n  - Asphalt shingle roofing, metal roofing, siding installation, deck building, and more[2][3].\n\n### Service Areas Covered\n- As mentioned, the service areas include Eufaula, Georgetown, Columbus, and other nearby regions[2].\n\n### Emergency Service Availability\n- There is no specific information available about emergency service availability.\n\n### Any Listed Prices or Rates\n- The typical job cost ranges from $1,100 to $75,000[2].\n\n## Customer Reviews & Reputation\n\n### Review Summaries with Specific Examples\n- Customers have praised Mel's Restoration & Remodeling for their professionalism, promptness, and attention to detail. For example, one customer mentioned that the technicians did an \"incredible job fixing the cracked tiles in my bathroom\" and that the \"final result exceeded my expectations\"[3].\n- Another customer praised the team for their exceptional job with a bathroom remodeling project, highlighting their dedication, skill, and commitment to delivering top-notch results[3].\n\n### BBB Rating and Status\n- There is no information available in the provided sources regarding the BBB rating or status.\n\n### Common Customer Feedback Themes\n- Common themes include high praise for the team's professionalism, promptness, attention to detail, and the quality of the work done[3].\n\n### Response to Reviews\n- There is no specific information available about how the business responds to reviews.\n\n## Owner & Staff\n\n### Owner/Management Information\n- Mel's Restoration & Remodeling was started by Melvin and Betty James. Melvin James is the owner[5].\n\n### Staff Qualifications\n- The sources do not provide detailed information about the staff qualifications or professional certifications. However, the reviews suggest that the technicians are skilled and committed to delivering high-quality work[3].\n\nIn summary, while some specific details such as business hours, payment methods, and staff qualifications are not available from the provided sources, Mel's Restoration & Remodeling is known for its high-quality services, professional staff, and excellent customer feedback.",
+  "aboutUs": "Mel's Restoration & Remodeling is a premier home improvement and remodeling company serving Eufaula, Georgetown, Columbus, and surrounding areas. Our team of skilled professionals specializes in bathroom and kitchen remodeling, tile installation, roofing, siding, and a wide range of home restoration services. With a commitment to exceptional craftsmanship and attention to detail, we deliver tailored solutions to transform your living spaces.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the difference of working with a trusted local contractor that combines expertise, quality workmanship, and personalized service.",
+    "sellingPoints": [
+      "Skilled technicians with extensive training in specialized home improvement techniques, ensuring flawless execution and long-lasting results.",
+      "Comprehensive project management from start to finish, with transparent communication and a focus on meeting your unique needs and preferences.",
+      "Commitment to using high-quality materials and adhering to industry best practices, guaranteeing durable and visually stunning outcomes."
+    ]
+  }
+}

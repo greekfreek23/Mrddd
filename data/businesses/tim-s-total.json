@@ -1,0 +1,76 @@
+{
+  "slug": "tim's-total",
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, it appears that the business \"Tim's Total\" with the specified details does not match any of the information found in the sources. Here are some key points to note:\n\n## Business Information\n- There is no mention of a business named \"Tim's Total\" in the provided sources. The sources discuss a business named \"Tim's Plumbing, LLC\" based in Birmingham, Alabama, but this does not match the given identifiers for \"Tim's Total\".\n\n## Services & Specialties\n- Since \"Tim's Total\" does not match any known business in the sources, there is no information available on the types of services offered, service areas covered, emergency service availability, or prices.\n\n## Customer Reviews & Reputation\n- There is no review or rating information available for \"Tim's Total\" in the sources provided. The rating of 1 (1 review) mentioned in the query cannot be verified through these sources.\n\n## Owner & Staff\n- There is no information available on the owner, management, staff qualifications, or professional certifications for \"Tim's Total\" as it does not appear in the sources.\n\nGiven the mismatch between the provided identifiers and the information available, it is clear that \"Tim's Total\" with the specified details (Google Place ID: ChIJWUkFdf7DkWURRqkLVKiqlco, Phone: +1 313-502-3139) does not correspond to any business found in the sources. To obtain accurate information about this business, you may need to consult other databases or contact the business directly.",
+  "aboutUs": "At Tim's Total, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch service to our local community. Our expertise spans a wide range of plumbing services, from routine maintenance and repairs to complex installations and emergency services. We specialize in residential and commercial plumbing, ensuring that every job is completed with precision and attention to detail.",
+  "whyChooseUs": {
+    "mainPitch": "Reliable and efficient plumbing solutions tailored to your unique needs.",
+    "sellingPoints": [
+      "Rapid response times for emergency plumbing situations, ensuring your issues are addressed promptly.",
+      "State-of-the-art equipment and techniques to tackle even the most challenging plumbing problems.",
+      "Transparent pricing and upfront cost estimates, so you know exactly what to expect."
+    ]
+  },
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJWUkFdf7DkWURRqkLVKiqlco",
+      "name": "David",
+      "text": "Tim was supposed to come to our house with this crew and redo our front porch with an enclosed screened area, 3 times he never showed up. Severely disappointed.",
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2024-07-16T14:48:05.208Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURyOHFIRDJRRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyOHFIRDJRRRAB!2m1!1s0x0:0xca95aaa8540ba946!3m1!1s2@1:CIHM0ogKEICAgIDr8qHD2QE%7CCgsIpZDatAYQgOOtYw%7C?hl=en",
+      "reviewerId": "113093787320854393511",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113093787320854393511?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWpTmUGG8DPmqv2An-rlc8tw3MSwEJ-BVrzQQetyOti-5NXTwQt=s120-c-rp-mo-ba3-br100",
+      "reviewerNumberOfReviews": 55,
+      "isLocalGuide": true,
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJWUkFdf7DkWURRqkLVKiqlco",
+      "location": {
+        "lat": 34.7857329,
+        "lng": -87.6567429
+      },
+      "address": null,
+      "categoryName": "Remodeler",
+      "categories": [
+        "Remodeler",
+        "Dry wall contractor",
+        "Service establishment",
+        "Home builder",
+        "Plumber"
+      ],
+      "title": "Tim's Total",
+      "totalScore": 1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=Tim's%20Total&query_place_id=ChIJWUkFdf7DkWURRqkLVKiqlco",
+      "price": null,
+      "cid": "14597761407132608838",
+      "fid": "0x6591c3fe75054959:0xca95aaa8540ba946",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMMx_r5c1E2Tn1XurNMts2Z-CV9Qb8a6Mk4hxM1=w408-h544-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [
+    "front porch redo",
+    "enclosed screened area"
+  ],
+  "firstReviewDate": "2024-07-16",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 1
+}

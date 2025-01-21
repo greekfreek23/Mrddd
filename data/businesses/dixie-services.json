@@ -1,0 +1,35 @@
+{
+  "slug": "dixie-services",
+  "businessName": "Dixie Services",
+  "processedImages": 8,
+  "totalTokens": 18352,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOfzAwzyWVPnZYzmineWBAbqNX1UG-eU5qTIvuq=w2048-h2048-k-no",
+      "description": "This image showcases the impressive scale and scope of a major plumbing project undertaken by Dixie Services. It depicts a large industrial facility with extensive trenching and piping work in progress, demonstrating the company's ability to handle complex and sizable installations.",
+      "callToAction": "Trust Dixie Services for your most demanding commercial and industrial plumbing needs. Contact us today for a consultation."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOSnaIweBeTFW1JjhUFuGqSOqxAEtN5kBDfbU4k=w2048-h2048-k-no",
+      "description": "This image highlights the attention to detail and quality workmanship that Dixie Services brings to every project. It shows a well-organized and neatly executed piping system installation, reflecting the company's commitment to excellence and professionalism.",
+      "callToAction": "Experience the Dixie Services difference. Our skilled technicians deliver flawless plumbing solutions tailored to your specific requirements."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipM9fTpvyJmsvhRb-IAWG9vLnx0eMoklLGvWd1Ss=w2048-h2048-k-no",
+      "description": "This image captures the scale and complexity of a major plumbing project undertaken by Dixie Services. It showcases the company's ability to handle large-scale commercial and industrial installations with precision and efficiency.",
+      "callToAction": "Trust the experts at Dixie Services to tackle your most challenging plumbing projects. Contact us for a free consultation and quote."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPmvSsUTWNhxERpK43HT_W2d-vWimt6Dgkl5gDm=w2048-h2048-k-no",
+      "description": "This image showcases the meticulous attention to detail and craftsmanship that Dixie Services brings to every project. It depicts a well-organized and neatly executed piping system installation, reflecting the company's commitment to quality and professionalism.",
+      "reason": "This image effectively demonstrates the company's capabilities in executing complex plumbing installations with precision and attention to detail, making it an ideal choice for the About Us section."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMQIO06_94WuTda7ug8H_byMryQ6475vaVVDNHo=w2048-h2048-k-no",
+      "description": "This image provides a glimpse into the behind-the-scenes work involved in a plumbing project by Dixie Services. It shows the careful planning and preparation required, with piping materials and equipment neatly organized, reflecting the company's commitment to efficiency and organization.",
+      "reason": "This image offers insight into the company's methodical approach and preparation process, showcasing their professionalism and dedication to delivering high-quality results, making it a suitable choice for the About Us section."
+    }
+  ]
+}

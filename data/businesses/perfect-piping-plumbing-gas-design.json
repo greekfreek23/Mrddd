@@ -1,0 +1,45 @@
+{
+  "slug": "perfect-piping-plumbing-gas-design",
+  "businessName": "Perfect Piping Plumbing Gas & Design",
+  "processedImages": 12,
+  "totalTokens": 29964,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipN8-T7PHD0tASU3hsD_KNPMRopnrOf8VmQXqUuq=w2048-h2048-k-no",
+      "description": "This image showcases the installation of a modern septic system in a residential setting. It features a large, white septic tank with green lids, partially buried in the ground with piping visible.",
+      "callToAction": "Upgrade your home's septic system with our expert installation services for a reliable and eco-friendly solution."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP4-MshNWWqSJy8YU_W-tH4YvW8TA5dCCypwMYn=w2048-h2048-k-no",
+      "description": "This image captures the construction of a new pier or boardwalk over a body of water. It showcases the company's expertise in commercial and marine plumbing projects.",
+      "callToAction": "Trust our experienced team to handle your commercial and marine plumbing needs with precision and efficiency."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOeHjmk2FlKcqhSVqBDP5Pw8vvPUeNZlL_uWwu-=w2048-h2048-k-no",
+      "description": "This image depicts a construction site with ongoing plumbing work. It shows the installation of underground piping and drainage systems in a new development.",
+      "callToAction": "Rely on our skilled professionals for all your new construction plumbing needs, from design to installation."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNTSLWSWlXUBHgWU5tyrScEgArA4qmTC4bMpfY_=w2048-h2048-k-no",
+      "description": "This image showcases the company's expertise in residential plumbing installations. It features a row of modern water heaters mounted on the wall, demonstrating their capability to handle large-scale projects.",
+      "reasonForAboutUs": "This image effectively highlights the company's professionalism and ability to handle complex residential plumbing projects, making it suitable for the About Us section."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPm-G707VK6ntjwmapDg9Wmf2ueRAGDbEy1IxrO=w2048-h2048-k-no",
+      "description": "This image depicts a bathroom renovation project, showcasing the company's attention to detail and high-quality workmanship in residential plumbing installations.",
+      "reasonForAboutUs": "The image provides a glimpse into the company's commitment to delivering exceptional results, making it a fitting choice for the About Us section to showcase their expertise."
+    }
+  ],
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, there is no specific information available for \"Perfect Piping Plumbing Gas & Design\" in Alabama that matches the given details. Here are some reasons and alternatives:\n\n## Reasons for Lack of Information\n- The search results provided do not include any information about a business named \"Perfect Piping Plumbing Gas & Design\" in Alabama.\n- The identifiers given (Google Place ID, phone number, and business name) do not match any of the businesses listed in the search results.\n\n## Alternative Steps\nTo find detailed information about this specific business, you may need to:\n- Check the Alabama Secretary of State's business registration database or the State of Alabama Plumbers & Gas Fitters Examining Board for licensing details.\n- Use business directories like the Better Business Bureau (BBB) or local business listings to see if the business is listed.\n- Visit the business's official website, if available, or contact them directly using the provided phone number.\n\n## General Steps for Verification\n1. **Business Information**:\n   - Contact the Alabama Secretary of State's office or the State of Alabama Plumbers & Gas Fitters Examining Board to verify business registration and licensing.\n   - Check online directories or the business's website for physical location, service areas, hours, and payment methods.\n\n2. **Services & Specialties**:\n   - Visit the business's website or contact them directly to inquire about the types of services offered, service areas, emergency service availability, and any listed prices or rates.\n\n3. **Customer Reviews & Reputation**:\n   - Check review platforms like Google Reviews, Yelp, or the BBB website for customer reviews and ratings.\n   - Look for common themes in customer feedback and how the business responds to reviews.\n\n4. **Owner & Staff**:\n   - Contact the business directly to inquire about the owner/management information and staff qualifications.\n   - Check professional certification bodies relevant to plumbing services to verify staff certifications.\n\nGiven the lack of specific information in the search results, these steps would be necessary to gather accurate details about \"Perfect Piping Plumbing Gas & Design\" in Alabama.",
+  "aboutUs": "Perfect Piping Plumbing Gas & Design is a trusted local plumbing company specializing in residential and commercial services. Our team of highly skilled and certified technicians provides expert solutions for all your plumbing, gas, and design needs. With a focus on quality workmanship and exceptional customer service, we strive to exceed your expectations on every job.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the perfect blend of expertise, reliability, and personalized service for all your plumbing and gas needs.",
+    "sellingPoints": [
+      "Highly trained and certified technicians with extensive knowledge in plumbing, gas, and design installations and repairs.",
+      "Prompt and efficient service, with a commitment to arriving on time and completing projects within agreed timelines.",
+      "Comprehensive range of services, from routine maintenance to complex installations and emergency repairs, all backed by industry-leading warranties."
+    ]
+  }
+}

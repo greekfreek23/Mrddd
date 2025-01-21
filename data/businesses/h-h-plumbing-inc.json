@@ -1,0 +1,45 @@
+{
+  "slug": "h-h-plumbing-inc",
+  "businessName": "H & H Plumbing Inc.",
+  "processedImages": 10,
+  "totalTokens": 21338,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPc_sfyyL9H_9uTbcF8mXHe6GVy8c6DCQUjPBAp=w2048-h2048-k-no",
+      "description": "A team of three professional plumbers standing in front of their service van, showcasing their expertise and commitment to quality service.",
+      "callToAction": "Trust the experts at H&H Plumbing for all your plumbing needs across Alabama, Georgia, and Tennessee."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPLByc_Pr4vzctfNYPHSbTE4-3hByqBaOjQ5hvl=w2048-h2048-k-no",
+      "description": "A skilled plumber diligently working on a plumbing installation, demonstrating the company's attention to detail and professionalism.",
+      "callToAction": "Rely on H&H Plumbing's experienced technicians to handle your plumbing projects with precision and care."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipMqhq8qv7SWFQhCp42X6GkXQLNAHOY1dg97tsdk=w2048-h2048-k-no",
+      "description": "Two plumbers working together on a challenging underground plumbing repair, highlighting the company's ability to tackle complex jobs.",
+      "callToAction": "No job is too big or too small for H&H Plumbing. Contact us for reliable solutions to all your plumbing challenges."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOxn3Th9ho8UX-JCZxqrZvrRwYEqozNcP121b_7=w2048-h2048-k-no",
+      "description": "A heartwarming photo of a father and son, likely representing the family values and legacy of H&H Plumbing.",
+      "reason": "This image conveys the company's commitment to family values and tradition, which can resonate with potential customers and showcase the personal touch H&H Plumbing brings to their services."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNHIkDJ9dd5xZJUY1BWQGbhZH4Eh9tBiWeoSLvk=w2048-h2048-k-no",
+      "description": "An exterior shot of a well-maintained residential property, showcasing the company's expertise in residential plumbing services.",
+      "reason": "This image highlights H&H Plumbing's capabilities in providing top-notch plumbing solutions for residential properties, demonstrating their professionalism and attention to detail."
+    }
+  ],
+  "plumberResearchFull.json": "Based on the provided identifiers, it appears there is a confusion because the address and phone number given point to a business located in Georgia, not Alabama. Here is the clarification and the relevant information available for the business with the given details, which is not an Alabama-based business:\n\n## Business Information:\n- The business identified by the address \"84 Michaels Rd, Trenton, GA 30752\" and phone number \"+1 706-657-5710\" is not registered or located in Alabama. It is actually located in Georgia.\n- Since it is not an Alabama business, there are no Alabama business registration or license details available for this specific entity.\n- **Physical Location and Service Areas**: The business is located in Trenton, GA, and serves areas in Georgia, not Alabama[3].\n- **Hours and Payment Methods**: There is no specific information available on the hours of operation or payment methods for this business from the provided sources.\n- **Years in Operation**: The business in Georgia has been in operation since August 1, 2002[3].\n\n## Services & Specialties:\n- **Types of Services Offered**: The business offers residential and commercial plumbing services, including new construction, remodeling projects, cleaning of sewer drains, and video camera sewer inspections[3].\n- **Service Areas Covered**: The service areas are in Georgia, specifically around Trenton and possibly other parts of Southeast Tennessee & Northwest Georgia[3].\n- **Emergency Service Availability**: There is no specific information available on emergency service availability.\n- **Prices or Rates**: No listed prices or rates are available from the provided sources.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: The business has a 4.9 rating based on 44 reviews, but the specific examples or summaries of these reviews are not provided in the sources.\n- **BBB Rating and Status**: The business is not BBB accredited and has an A+ rating, though the BBB does not have sufficient information to fully rate the business[3].\n- **Common Customer Feedback Themes**: There is no detailed information on common customer feedback themes from the provided sources.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner of the business is Mr. Brian Hawkins[3].\n- **Staff Qualifications**: There is no detailed information available on the qualifications of the staff.\n- **Professional Certifications**: There is no specific information available on professional certifications held by the staff or owner.\n\nGiven the provided details, this business is not located in Alabama, and therefore, does not meet the criteria for the specific Alabama plumbing business you are researching.",
+  "aboutUs": "Our expert plumbing team specializes in comprehensive residential and commercial services across Northwest Georgia and Southeast Tennessee. With a focus on new construction, remodeling projects, drain cleaning, and video camera inspections, we deliver top-notch solutions tailored to your unique needs. Backed by extensive local experience, we prioritize quality workmanship and exceptional customer service.",
+  "whyChooseUs": {
+    "mainPitch": "Reliable and skilled plumbing solutions for all your residential and commercial needs.",
+    "sellingPoints": [
+      "Highly trained technicians with expertise in a wide range of plumbing services, from new installations to complex repairs.",
+      "Commitment to using the latest techniques and equipment to ensure efficient and long-lasting results.",
+      "Personalized service tailored to your specific requirements, with a focus on clear communication and customer satisfaction."
+    ]
+  }
+}

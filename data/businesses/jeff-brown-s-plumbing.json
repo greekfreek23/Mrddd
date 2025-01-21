@@ -1,0 +1,107 @@
+{
+  "slug": "jeff-brown's-plumbing",
+  "businessName": "Jeff Brown's Plumbing",
+  "processedImages": 12,
+  "totalTokens": 29955,
+  "heroSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPbnzrbef3FQVJozgKBjCbwgNmIOlFXjFOsOnIk=w2048-h2048-k-no",
+      "description": "A skilled plumber working on a residential plumbing installation, with pipes and fittings neatly laid out in a partially constructed home.",
+      "callToAction": "Trust our experienced team for all your new construction plumbing needs."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPLZUH0sOTZszky0NBCmUSGCZoVkUB0xWNA0uQ-=w2048-h2048-k-no",
+      "description": "A plumber carefully working on a bathroom plumbing fixture, showcasing our attention to detail and commitment to quality workmanship.",
+      "callToAction": "Upgrade your bathroom with our expert plumbing services for a refreshing new look."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPMDWnRusNK6S2jyLPUZYQpnKlC9cGDnFi6wUxk=w2048-h2048-k-no",
+      "description": "A close-up of a modern faucet with water flowing, highlighting our expertise in installing and maintaining high-quality fixtures.",
+      "callToAction": "Enhance your home's style and functionality with our wide range of plumbing fixture options."
+    }
+  ],
+  "aboutUsSection": [
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipOqad61lhHmFjdJ-jCrAq655Y7XxiamyfK1cI2C=w2048-h2048-k-no",
+      "description": "A plumber diligently working under a sink, demonstrating our ability to tackle even the most challenging plumbing repairs and maintenance tasks.",
+      "reason": "This image showcases our team's professionalism and commitment to providing top-notch plumbing services, making it an excellent choice for the About Us section."
+    },
+    {
+      "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipNYcr1hjyQ522rsoNJaocsbMG7V1K9YNvIW4fk9=w2048-h2048-k-no",
+      "description": "A construction site with framing and plumbing rough-in work in progress, highlighting our expertise in new construction and remodeling projects.",
+      "reason": "This image illustrates our company's capabilities in handling large-scale plumbing installations, making it a suitable choice for the About Us section."
+    }
+  ],
+  "plumberResearchFull.json": "Here is the detailed information about Jeff Brown's Plumbing in Alabama, based on the provided identifiers:\n\n## Business Information:\n\n- **Alabama Business Registration/License Details**: The business is in an industry that may require professional licensing, bonding, or registration. However, the specific licensing details are not provided in the sources. It is recommended to check with the State of Alabama Plumbers & Gas Fitters Examining Board for current licensing status[1].\n- **Physical Location and Service Areas**: Jeff Brown's Plumbing is located at 20 Arnett St, Madison, AL 35758. The service area appears to be primarily in the Madison and surrounding areas of North Alabama[1][2][4].\n- **Hours and Payment Methods**: The sources do not specify the business hours or payment methods.\n- **Years in Operation**: The BBB file for Jeff Brown's Plumbing was opened on November 17, 2017, indicating the business has been operational for at least since then[1].\n\n## Services & Specialties:\n\n- **Types of Services Offered**: Jeff Brown's Plumbing provides various plumbing services, including but not limited to, repairing and replacing leaking faucets, toilets, drain cleaning, and other general plumbing needs. They also handle pool and spa maintenance, well pump installations, and kitchen sink replacements[1][2][3].\n- **Service Areas Covered**: The service area includes Madison and surrounding areas in North Alabama[1][2][4].\n- **Emergency Service Availability**: There is no explicit mention of 24-hour emergency service availability in the sources provided.\n- **Prices or Rates**: No specific prices or rates are listed in the sources. However, customer reviews mention various costs associated with different services, such as over $5,000 for well repairs and $250 for other services[3].\n\n## Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  - Reviews are mixed. Some customers praise the service, citing honesty and professionalism. For example, Gary S. and Sandra Worley mentioned great and honest service[3].\n  - Other customers have had negative experiences, such as Tiarra M. and Charlotte C., who reported issues with well repairs, unprofessional behavior, and a lack of accountability[3].\n- **BBB Rating and Status**: Jeff Brown's Plumbing is not a BBB Accredited Business, and the BBB does not have sufficient information to issue a rating on this business[1].\n- **Common Customer Feedback Themes**: Positive feedback often highlights honesty and professionalism, while negative feedback frequently mentions unprofessional behavior, lack of accountability, and poor service quality[3].\n- **Response to Reviews**: There are no direct responses from the business to customer reviews in the provided sources.\n\n## Owner & Staff:\n\n- **Owner/Management Information**: The owner of Jeff Brown's Plumbing is Mr. Jeff Brown[1][2].\n- **Staff Qualifications**: There is no detailed information on the qualifications of the staff. However, some reviews suggest that the staff, including Jeff Brown, have significant knowledge and experience in plumbing[3].\n- **Professional Certifications**: No specific professional certifications are mentioned in the sources provided. It is recommended to verify certifications with the State of Alabama Plumbers & Gas Fitters Examining Board[1].",
+  "aboutUs": "Jeff Brown's Plumbing is a trusted local plumbing service provider in Madison, Alabama, and the surrounding areas. Our team of skilled professionals specializes in a wide range of plumbing services, from routine maintenance and repairs to complex installations and replacements. We take pride in our expertise and commitment to delivering top-notch solutions tailored to your specific needs.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with exceptional plumbing services from a team of dedicated professionals.",
+    "sellingPoints": [
+      "Comprehensive expertise in all aspects of plumbing, from residential to commercial projects",
+      "Prompt and reliable service, ensuring your plumbing issues are resolved efficiently",
+      "Commitment to using the latest techniques and high-quality materials for long-lasting solutions"
+    ]
+  },
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJMUgoGYVlYogRYOBvRmJSAng",
+      "name": "John Bilbo",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2023-10-26T20:40:19.070Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUQ1MmFDSUxBEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ1MmFDSUxBEAE!2m1!1s0x0:0x78025262466fe060!3m1!1s2@1:CIHM0ogKEICAgID52aCILA%7CCgsIs53rqQYQ6IbEIQ%7C?hl=en",
+      "reviewerId": "105903482656638095918",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105903482656638095918?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUqK0knU1Oqyik6DvlZyu0HS2O7Ee-MKuMMILxNPG4_Ou61lGUc6w=s120-c-rp-mo-ba2-br100",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": true,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {
+        "null": "Yes"
+      },
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJMUgoGYVlYogRYOBvRmJSAng",
+      "location": {
+        "lat": 32.800313,
+        "lng": -86.6807364
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Drainage service",
+        "Service establishment",
+        "Pump supplier",
+        "Septic system service"
+      ],
+      "title": "Jeff Brown's Plumbing",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=Jeff%20Brown's%20Plumbing&query_place_id=ChIJMUgoGYVlYogRYOBvRmJSAng",
+      "price": null,
+      "cid": "8647564816546783328",
+      "fid": "0x8862658519284831:0x78025262466fe060",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOqad61lhHmFjdJ-jCrAq655Y7XxiamyfK1cI2C=w408-h271-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "2023-10-26",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}
